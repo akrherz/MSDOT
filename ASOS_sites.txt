@@ -1,0 +1,14 @@
+KBIX Biloxi     1970 IEM after:  2007-01-26
+KCBM Columbus   1996 IEM after: 2007-01-26
+KPIB Pine Belt  1996 IEM after: 2007-01-26
+KGLH Greenville 1930 IEM after: 2007-01-26
+KGWO Greenwood  1948 IEM after: 2007-01-26
+KGPT Gulfport   1973 IEM after: 2007-01-26
+KHBG Hattiesburg1973 IEM after: 2007-01-26
+KHKS Hawkins    2001 IEM after: 2007-01-26
+KMCB McComb     1970 IEM after: 2007-01-26
+KMEI Meridian   1970 IEM after: 2007-01-26
+KHEZ Nachez     1970 IEM after: 2007-01-26
+KPQL Pascaquola 1970 IEM after: 2007-01-26
+KTUP Tupelo     1970 IEM after: 2007-01-26
+KTVR Vicksburg  1996 IEM after:

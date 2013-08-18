@@ -1,0 +1,492 @@
+Air Temp  [ F ] MIN:   4.80 MAX: 105.80   AVG:  65.54
+Wnd Speed [mph] MIN:   0.00 MAX:  58.30   AVG:   5.64
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  54.61
+Hr Precip [in ] MIN:   0.00 MAX:   4.83 YRAVG:  61.22
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  73.62
+Air Temp  [ F ] MIN:  -6.40 MAX: 105.60   AVG:  60.48
+Wnd Speed [mph] MIN:   0.00 MAX:  64.30   AVG:   6.25
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  49.93
+Hr Precip [in ] MIN:   0.00 MAX:   3.43 YRAVG:  57.85
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  69.33
+Air Temp  [ F ] MIN:   3.40 MAX: 105.30   AVG:  64.53
+Wnd Speed [mph] MIN:   0.00 MAX:  65.60   AVG:   5.21
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  51.16
+Hr Precip [in ] MIN:   0.00 MAX:   4.33 YRAVG:  63.44
+Rel Humid [ % ] MIN:  13.00 MAX: 100.00   AVG:  75.03
+Air Temp  [ F ] MIN:  -2.50 MAX: 104.10   AVG:  61.80
+Wnd Speed [mph] MIN:   0.00 MAX:  48.70   AVG:   5.37
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.11
+Hr Precip [in ] MIN:   0.00 MAX:   3.37 YRAVG:  59.77
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  72.37
+Air Temp  [ F ] MIN:  -5.90 MAX: 106.40   AVG:  59.84
+Wnd Speed [mph] MIN:   0.00 MAX:  56.70   AVG:   6.69
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  49.15
+Hr Precip [in ] MIN:   0.00 MAX:   2.63 YRAVG:  58.49
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  68.75
+Air Temp  [ F ] MIN:  -0.50 MAX: 106.60   AVG:  62.84
+Wnd Speed [mph] MIN:   0.00 MAX:  56.60   AVG:   6.60
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.07
+Hr Precip [in ] MIN:   0.00 MAX:   3.37 YRAVG:  55.29
+Rel Humid [ % ] MIN:  15.10 MAX: 100.00   AVG:  70.66
+Air Temp  [ F ] MIN:  -7.40 MAX: 105.80   AVG:  61.89
+Wnd Speed [mph] MIN:   0.00 MAX:  55.20   AVG:   5.76
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.93
+Hr Precip [in ] MIN:   0.00 MAX:   5.16 YRAVG:  57.80
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  71.39
+Air Temp  [ F ] MIN:  -2.00 MAX: 105.70   AVG:  62.94
+Wnd Speed [mph] MIN:   0.00 MAX:  89.10   AVG:   5.74
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  53.50
+Hr Precip [in ] MIN:   0.00 MAX:   3.53 YRAVG:  55.82
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  72.20
+Air Temp  [ F ] MIN:  -5.40 MAX: 105.10   AVG:  60.99
+Wnd Speed [mph] MIN:   0.00 MAX:  65.80   AVG:   5.66
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.83
+Hr Precip [in ] MIN:   0.00 MAX:   4.13 YRAVG:  58.17
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  71.49
+Air Temp  [ F ] MIN:  -3.80 MAX: 105.50   AVG:  62.07
+Wnd Speed [mph] MIN:   0.00 MAX:  42.30   AVG:   5.34
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.01
+Hr Precip [in ] MIN:   0.00 MAX:   3.60 YRAVG:  58.26
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  72.00
+Air Temp  [ F ] MIN:   2.00 MAX: 105.50   AVG:  64.20
+Wnd Speed [mph] MIN:   0.00 MAX:  36.40   AVG:   5.82
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  54.82
+Hr Precip [in ] MIN:   0.00 MAX:   2.73 YRAVG:  59.19
+Rel Humid [ % ] MIN:  15.50 MAX: 100.00   AVG:  74.09
+Air Temp  [ F ] MIN:   0.30 MAX: 104.90   AVG:  63.61
+Wnd Speed [mph] MIN:   0.00 MAX:  42.90   AVG:   5.31
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  51.14
+Hr Precip [in ] MIN:   0.00 MAX:   5.11 YRAVG:  57.79
+Rel Humid [ % ] MIN:  12.10 MAX: 100.00   AVG:  73.45
+Air Temp  [ F ] MIN:  -6.00 MAX: 106.10   AVG:  62.27
+Wnd Speed [mph] MIN:   0.00 MAX:  56.70   AVG:   5.35
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  51.30
+Hr Precip [in ] MIN:   0.00 MAX:   3.24 YRAVG:  57.42
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  71.73
+Air Temp  [ F ] MIN:  -2.00 MAX: 105.30   AVG:  62.18
+Wnd Speed [mph] MIN:   0.00 MAX:  47.60   AVG:   6.76
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  50.18
+Hr Precip [in ] MIN:   0.00 MAX:   2.38 YRAVG:  54.45
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  69.49
+Air Temp  [ F ] MIN:   1.70 MAX: 105.20   AVG:  64.97
+Wnd Speed [mph] MIN:   0.00 MAX:  42.50   AVG:   5.46
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  53.26
+Hr Precip [in ] MIN:   0.00 MAX:   4.76 YRAVG:  59.70
+Rel Humid [ % ] MIN:  12.70 MAX: 100.00   AVG:  74.51
+Air Temp  [ F ] MIN:   2.40 MAX: 107.90   AVG:  64.93
+Wnd Speed [mph] MIN:   0.00 MAX:  36.40   AVG:   5.36
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.31
+Hr Precip [in ] MIN:   0.00 MAX:   2.68 YRAVG:  59.57
+Rel Humid [ % ] MIN:  13.20 MAX: 100.00   AVG:  73.23
+Air Temp  [ F ] MIN:  -5.90 MAX: 111.30   AVG:  62.06
+Wnd Speed [mph] MIN:   0.00 MAX:  81.00   AVG:   7.17
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  47.64
+Hr Precip [in ] MIN:   0.00 MAX:   3.73 YRAVG:  55.42
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  67.91
+Air Temp  [ F ] MIN:   3.10 MAX: 105.00   AVG:  65.85
+Wnd Speed [mph] MIN:   0.00 MAX:  36.90   AVG:   5.46
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  51.68
+Hr Precip [in ] MIN:   0.00 MAX:   5.13 YRAVG:  61.71
+Rel Humid [ % ] MIN:  13.20 MAX: 100.00   AVG:  73.82
+Air Temp  [ F ] MIN:   2.90 MAX: 105.20   AVG:  64.73
+Wnd Speed [mph] MIN:   0.00 MAX:  45.10   AVG:   5.51
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  53.70
+Hr Precip [in ] MIN:   0.00 MAX:   3.26 YRAVG:  61.02
+Rel Humid [ % ] MIN:  15.00 MAX: 100.00   AVG:  74.16
+Air Temp  [ F ] MIN:  -4.10 MAX: 103.50   AVG:  65.63
+Wnd Speed [mph] MIN:   0.00 MAX:  44.20   AVG:   6.00
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  51.43
+Hr Precip [in ] MIN:   0.00 MAX:   6.17 YRAVG:  65.82
+Rel Humid [ % ] MIN:  14.60 MAX: 100.00   AVG:  73.53
+Air Temp  [ F ] MIN:  -3.50 MAX: 103.40   AVG:  64.93
+Wnd Speed [mph] MIN:   0.00 MAX:  40.80   AVG:   5.93
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  51.69
+Hr Precip [in ] MIN:   0.00 MAX:   4.36 YRAVG:  63.47
+Rel Humid [ % ] MIN:  13.50 MAX: 100.00   AVG:  73.34
+Air Temp  [ F ] MIN:  -4.40 MAX: 105.10   AVG:  61.67
+Wnd Speed [mph] MIN:   0.00 MAX:  63.10   AVG:   6.01
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.85
+Hr Precip [in ] MIN:   0.00 MAX:   4.42 YRAVG:  59.76
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  71.18
+Air Temp  [ F ] MIN:   5.10 MAX: 102.90   AVG:  67.02
+Wnd Speed [mph] MIN:   0.00 MAX:  49.50   AVG:   6.29
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  50.74
+Hr Precip [in ] MIN:   0.00 MAX:   4.98 YRAVG:  65.23
+Rel Humid [ % ] MIN:  15.20 MAX: 100.00   AVG:  74.96
+Air Temp  [ F ] MIN:   4.30 MAX: 102.60   AVG:  68.27
+Wnd Speed [mph] MIN:   0.00 MAX:  67.20   AVG:   6.05
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  49.17
+Hr Precip [in ] MIN:   0.00 MAX:   6.63 YRAVG:  66.88
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  75.16
+Air Temp  [ F ] MIN:   1.40 MAX: 109.30   AVG:  64.27
+Wnd Speed [mph] MIN:   0.00 MAX:  32.80   AVG:   5.85
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  54.92
+Hr Precip [in ] MIN:   0.00 MAX:   2.45 YRAVG:  58.44
+Rel Humid [ % ] MIN:  13.60 MAX: 100.00   AVG:  73.84
+Air Temp  [ F ] MIN:  -2.00 MAX: 106.30   AVG:  62.56
+Wnd Speed [mph] MIN:   0.00 MAX:  71.70   AVG:   5.73
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  53.40
+Hr Precip [in ] MIN:   0.00 MAX:   4.48 YRAVG:  57.59
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  72.52
+Air Temp  [ F ] MIN:   0.90 MAX: 106.80   AVG:  64.11
+Wnd Speed [mph] MIN:   0.00 MAX:  59.50   AVG:   6.28
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  53.73
+Hr Precip [in ] MIN:   0.00 MAX:   6.59 YRAVG:  58.82
+Rel Humid [ % ] MIN:  14.00 MAX: 100.00   AVG:  72.21
+Air Temp  [ F ] MIN:  -0.10 MAX: 105.30   AVG:  64.13
+Wnd Speed [mph] MIN:   0.00 MAX:  39.90   AVG:   6.27
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  54.35
+Hr Precip [in ] MIN:   0.00 MAX:   3.40 YRAVG:  57.95
+Rel Humid [ % ] MIN:  16.10 MAX: 100.00   AVG:  73.26
+Air Temp  [ F ] MIN:  -9.50 MAX: 104.90   AVG:  60.12
+Wnd Speed [mph] MIN:   0.00 MAX:  58.20   AVG:   5.76
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.68
+Hr Precip [in ] MIN:   0.00 MAX:   3.62 YRAVG:  58.39
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  70.96
+Air Temp  [ F ] MIN:   4.50 MAX: 103.30   AVG:  67.66
+Wnd Speed [mph] MIN:   0.00 MAX:  64.50   AVG:   5.88
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  49.00
+Hr Precip [in ] MIN:   0.00 MAX:   8.13 YRAVG:  68.98
+Rel Humid [ % ] MIN:  14.30 MAX: 100.00   AVG:  74.71
+Air Temp  [ F ] MIN:   0.40 MAX: 105.20   AVG:  63.55
+Wnd Speed [mph] MIN:   0.00 MAX:  42.30   AVG:   5.40
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.00
+Hr Precip [in ] MIN:   0.00 MAX:   3.00 YRAVG:  58.40
+Rel Humid [ % ] MIN:  12.20 MAX: 100.00   AVG:  73.56
+Air Temp  [ F ] MIN:   1.70 MAX: 105.20   AVG:  64.26
+Wnd Speed [mph] MIN:   0.00 MAX:  42.60   AVG:   5.66
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  54.38
+Hr Precip [in ] MIN:   0.00 MAX:   2.60 YRAVG:  59.59
+Rel Humid [ % ] MIN:  15.50 MAX: 100.00   AVG:  74.11
+Air Temp  [ F ] MIN:   3.20 MAX: 107.50   AVG:  64.73
+Wnd Speed [mph] MIN:   0.00 MAX:  34.80   AVG:   5.33
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.08
+Hr Precip [in ] MIN:   0.00 MAX:   3.84 YRAVG:  59.77
+Rel Humid [ % ] MIN:  12.90 MAX: 100.00   AVG:  73.77
+Air Temp  [ F ] MIN:   3.10 MAX: 105.60   AVG:  64.81
+Wnd Speed [mph] MIN:   0.00 MAX:  38.00   AVG:   5.40
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.29
+Hr Precip [in ] MIN:   0.00 MAX:   4.86 YRAVG:  59.19
+Rel Humid [ % ] MIN:  13.30 MAX: 100.00   AVG:  73.05
+Air Temp  [ F ] MIN:  -2.30 MAX: 104.10   AVG:  62.97
+Wnd Speed [mph] MIN:   0.00 MAX:  52.40   AVG:   4.33
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  48.99
+Hr Precip [in ] MIN:   0.00 MAX:   5.34 YRAVG:  57.44
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  72.32
+Air Temp  [ F ] MIN: -11.90 MAX: 105.70   AVG:  61.02
+Wnd Speed [mph] MIN:   0.00 MAX:  47.00   AVG:   6.32
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  51.59
+Hr Precip [in ] MIN:   0.00 MAX:   3.62 YRAVG:  58.42
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  70.08
+Air Temp  [ F ] MIN:   3.70 MAX: 105.00   AVG:  66.08
+Wnd Speed [mph] MIN:   0.00 MAX:  35.20   AVG:   5.46
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  51.54
+Hr Precip [in ] MIN:   0.00 MAX:   4.50 YRAVG:  62.25
+Rel Humid [ % ] MIN:  14.70 MAX: 100.00   AVG:  74.00
+Air Temp  [ F ] MIN:  -0.40 MAX: 105.00   AVG:  63.47
+Wnd Speed [mph] MIN:   0.00 MAX:  46.80   AVG:   4.40
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  49.37
+Hr Precip [in ] MIN:   0.00 MAX:   4.37 YRAVG:  58.05
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  72.78
+Air Temp  [ F ] MIN:   4.00 MAX: 106.80   AVG:  64.39
+Wnd Speed [mph] MIN:   0.00 MAX:  43.80   AVG:   5.30
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  51.85
+Hr Precip [in ] MIN:   0.00 MAX:   2.75 YRAVG:  60.66
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  74.30
+Air Temp  [ F ] MIN:  -0.10 MAX: 105.80   AVG:  62.88
+Wnd Speed [mph] MIN:   0.00 MAX:  36.10   AVG:   5.29
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.06
+Hr Precip [in ] MIN:   0.00 MAX:   3.52 YRAVG:  56.89
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  73.05
+Air Temp  [ F ] MIN:  -6.70 MAX: 105.30   AVG:  61.50
+Wnd Speed [mph] MIN:   0.00 MAX:  88.10   AVG:   5.99
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  53.99
+Hr Precip [in ] MIN:   0.00 MAX:   2.84 YRAVG:  57.51
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  70.81
+Air Temp  [ F ] MIN:   0.30 MAX: 106.30   AVG:  63.35
+Wnd Speed [mph] MIN:   0.00 MAX:  82.10   AVG:   6.16
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.86
+Hr Precip [in ] MIN:   0.00 MAX:   5.49 YRAVG:  58.25
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  71.47
+Air Temp  [ F ] MIN:   3.40 MAX: 105.60   AVG:  64.33
+Wnd Speed [mph] MIN:   0.00 MAX:  58.80   AVG:   5.27
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.09
+Hr Precip [in ] MIN:   0.00 MAX:   2.70 YRAVG:  60.80
+Rel Humid [ % ] MIN:  12.20 MAX: 100.00   AVG:  74.82
+Air Temp  [ F ] MIN:  -3.60 MAX: 106.60   AVG:  62.89
+Wnd Speed [mph] MIN:   0.00 MAX:  72.00   AVG:   5.02
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  50.04
+Hr Precip [in ] MIN:   0.00 MAX:   3.54 YRAVG:  58.23
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  71.85
+Air Temp  [ F ] MIN:   0.70 MAX: 105.70   AVG:  63.09
+Wnd Speed [mph] MIN:   0.00 MAX:  37.10   AVG:   5.75
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  53.73
+Hr Precip [in ] MIN:   0.00 MAX:   3.60 YRAVG:  56.82
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  73.26
+Air Temp  [ F ] MIN:   3.70 MAX: 104.50   AVG:  66.16
+Wnd Speed [mph] MIN:   0.00 MAX:  38.80   AVG:   5.44
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  51.18
+Hr Precip [in ] MIN:   0.00 MAX:   4.01 YRAVG:  62.55
+Rel Humid [ % ] MIN:  14.80 MAX: 100.00   AVG:  74.31
+Air Temp  [ F ] MIN:  -5.70 MAX: 105.70   AVG:  59.78
+Wnd Speed [mph] MIN:   0.00 MAX:  65.10   AVG:   6.83
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  48.79
+Hr Precip [in ] MIN:   0.00 MAX:   2.70 YRAVG:  56.88
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  68.59
+Air Temp  [ F ] MIN:  -3.30 MAX: 106.30   AVG:  62.60
+Wnd Speed [mph] MIN:   0.00 MAX:  64.40   AVG:   5.57
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  51.23
+Hr Precip [in ] MIN:   0.00 MAX:   3.48 YRAVG:  56.29
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  71.61
+Air Temp  [ F ] MIN:  -4.60 MAX: 104.30   AVG:  61.14
+Wnd Speed [mph] MIN:   0.00 MAX:  55.80   AVG:   5.49
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.54
+Hr Precip [in ] MIN:   0.00 MAX:   4.19 YRAVG:  58.53
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  72.07
+Air Temp  [ F ] MIN:  -0.70 MAX: 105.40   AVG:  63.12
+Wnd Speed [mph] MIN:   0.00 MAX:  39.90   AVG:   4.73
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  50.19
+Hr Precip [in ] MIN:   0.00 MAX:   5.18 YRAVG:  57.97
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  72.67
+Air Temp  [ F ] MIN:   0.30 MAX: 105.80   AVG:  63.13
+Wnd Speed [mph] MIN:   0.00 MAX:  41.20   AVG:   4.89
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  50.72
+Hr Precip [in ] MIN:   0.00 MAX:   4.18 YRAVG:  57.77
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  73.16
+Air Temp  [ F ] MIN:  -1.70 MAX: 104.90   AVG:  62.95
+Wnd Speed [mph] MIN:   0.00 MAX:  61.80   AVG:   4.65
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  49.64
+Hr Precip [in ] MIN:   0.00 MAX:   4.32 YRAVG:  56.89
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  71.85
+Air Temp  [ F ] MIN:  -6.60 MAX: 107.80   AVG:  62.62
+Wnd Speed [mph] MIN:   0.00 MAX:  71.70   AVG:   5.08
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  50.72
+Hr Precip [in ] MIN:   0.00 MAX:   3.61 YRAVG:  56.72
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  71.87
+Air Temp  [ F ] MIN:  -7.50 MAX: 106.80   AVG:  61.24
+Wnd Speed [mph] MIN:   0.00 MAX:  50.50   AVG:   6.68
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  50.26
+Hr Precip [in ] MIN:   0.00 MAX:   3.96 YRAVG:  56.14
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  69.51
+Air Temp  [ F ] MIN:   4.00 MAX: 103.40   AVG:  66.90
+Wnd Speed [mph] MIN:   0.00 MAX:  42.20   AVG:   5.93
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  51.04
+Hr Precip [in ] MIN:   0.00 MAX:   5.79 YRAVG:  64.75
+Rel Humid [ % ] MIN:  15.50 MAX: 100.00   AVG:  74.72
+Air Temp  [ F ] MIN:   1.10 MAX: 105.50   AVG:  65.44
+Wnd Speed [mph] MIN:   0.00 MAX:  38.80   AVG:   5.65
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  51.65
+Hr Precip [in ] MIN:   0.00 MAX:   5.33 YRAVG:  60.71
+Rel Humid [ % ] MIN:  13.90 MAX: 100.00   AVG:  73.58
+Air Temp  [ F ] MIN:   2.50 MAX: 104.40   AVG:  64.95
+Wnd Speed [mph] MIN:   0.00 MAX:  95.50   AVG:   4.95
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  49.82
+Hr Precip [in ] MIN:   0.00 MAX:   4.66 YRAVG:  63.22
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  75.55
+Air Temp  [ F ] MIN:  -7.50 MAX: 105.40   AVG:  61.16
+Wnd Speed [mph] MIN:   0.00 MAX:  80.50   AVG:   6.11
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  53.33
+Hr Precip [in ] MIN:   0.00 MAX:   3.41 YRAVG:  58.60
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  70.60
+Air Temp  [ F ] MIN:  -8.70 MAX: 106.00   AVG:  60.83
+Wnd Speed [mph] MIN:   0.00 MAX:  53.20   AVG:   6.05
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.02
+Hr Precip [in ] MIN:   0.00 MAX:   2.60 YRAVG:  58.34
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  70.17
+Air Temp  [ F ] MIN:  -4.40 MAX: 105.70   AVG:  61.85
+Wnd Speed [mph] MIN:   0.00 MAX:  51.60   AVG:   6.78
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  50.09
+Hr Precip [in ] MIN:   0.00 MAX:   3.05 YRAVG:  55.98
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  69.42
+Air Temp  [ F ] MIN:   1.40 MAX: 106.10   AVG:  64.30
+Wnd Speed [mph] MIN:   0.00 MAX:  46.40   AVG:   5.69
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  53.73
+Hr Precip [in ] MIN:   0.00 MAX:   4.93 YRAVG:  56.41
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  73.95
+Air Temp  [ F ] MIN:  -0.50 MAX: 104.30   AVG:  63.29
+Wnd Speed [mph] MIN:   0.00 MAX:  37.00   AVG:   5.39
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.41
+Hr Precip [in ] MIN:   0.00 MAX:   2.79 YRAVG:  59.80
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  73.45
+Air Temp  [ F ] MIN:  -0.80 MAX: 105.40   AVG:  64.13
+Wnd Speed [mph] MIN:   0.00 MAX:  47.60   AVG:   6.36
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  54.03
+Hr Precip [in ] MIN:   0.00 MAX:   4.26 YRAVG:  57.75
+Rel Humid [ % ] MIN:  15.30 MAX: 100.00   AVG:  72.64
+Air Temp  [ F ] MIN:   1.80 MAX: 105.80   AVG:  63.59
+Wnd Speed [mph] MIN:   0.00 MAX:  33.60   AVG:   5.41
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.59
+Hr Precip [in ] MIN:   0.00 MAX:   2.44 YRAVG:  59.71
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  74.11
+Air Temp  [ F ] MIN:   0.10 MAX: 103.60   AVG:  63.74
+Wnd Speed [mph] MIN:   0.00 MAX:  37.40   AVG:   5.45
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.72
+Hr Precip [in ] MIN:   0.00 MAX:   3.54 YRAVG:  60.19
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  73.62
+Air Temp  [ F ] MIN:   2.50 MAX: 103.40   AVG:  67.29
+Wnd Speed [mph] MIN:   0.00 MAX:  54.90   AVG:   5.90
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  50.54
+Hr Precip [in ] MIN:   0.00 MAX:   8.10 YRAVG:  68.58
+Rel Humid [ % ] MIN:  15.40 MAX: 100.00   AVG:  74.58
+Air Temp  [ F ] MIN:  -0.40 MAX: 106.20   AVG:  63.48
+Wnd Speed [mph] MIN:   0.00 MAX:  66.40   AVG:   6.44
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.57
+Hr Precip [in ] MIN:   0.00 MAX:   5.59 YRAVG:  56.25
+Rel Humid [ % ] MIN:  13.80 MAX: 100.00   AVG:  71.23
+Air Temp  [ F ] MIN:  -1.00 MAX: 106.40   AVG:  62.73
+Wnd Speed [mph] MIN:   0.00 MAX:  70.30   AVG:   6.39
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.03
+Hr Precip [in ] MIN:   0.00 MAX:   3.82 YRAVG:  58.50
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  70.77
+Air Temp  [ F ] MIN:  -6.80 MAX: 105.90   AVG:  61.34
+Wnd Speed [mph] MIN:   0.00 MAX:  65.40   AVG:   6.92
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  48.99
+Hr Precip [in ] MIN:   0.00 MAX:   4.80 YRAVG:  56.14
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  68.75
+Air Temp  [ F ] MIN:  -6.00 MAX: 107.00   AVG:  60.07
+Wnd Speed [mph] MIN:   0.00 MAX:  54.20   AVG:   6.54
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  49.44
+Hr Precip [in ] MIN:   0.00 MAX:   3.32 YRAVG:  58.36
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  68.92
+Air Temp  [ F ] MIN: -11.50 MAX: 106.00   AVG:  59.45
+Wnd Speed [mph] MIN:   0.00 MAX:  75.40   AVG:   6.10
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  50.15
+Hr Precip [in ] MIN:   0.00 MAX:   3.91 YRAVG:  59.28
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  69.55
+Air Temp  [ F ] MIN:  -4.30 MAX: 105.80   AVG:  61.81
+Wnd Speed [mph] MIN:   0.00 MAX:  64.70   AVG:   6.96
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  48.88
+Hr Precip [in ] MIN:   0.00 MAX:   3.14 YRAVG:  55.48
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  68.73
+Air Temp  [ F ] MIN:  -9.00 MAX: 106.40   AVG:  60.68
+Wnd Speed [mph] MIN:   0.00 MAX:  58.60   AVG:   6.33
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  51.53
+Hr Precip [in ] MIN:   0.00 MAX:   4.41 YRAVG:  57.97
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  69.78
+Air Temp  [ F ] MIN:   3.40 MAX: 103.90   AVG:  65.78
+Wnd Speed [mph] MIN:   0.00 MAX:  56.00   AVG:   5.37
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  50.73
+Hr Precip [in ] MIN:   0.00 MAX:   3.78 YRAVG:  63.17
+Rel Humid [ % ] MIN:  14.60 MAX: 100.00   AVG:  74.70
+Air Temp  [ F ] MIN:   1.90 MAX: 109.60   AVG:  64.67
+Wnd Speed [mph] MIN:   0.00 MAX:  30.40   AVG:   5.91
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  55.05
+Hr Precip [in ] MIN:   0.00 MAX:   3.57 YRAVG:  59.13
+Rel Humid [ % ] MIN:  15.20 MAX: 100.00   AVG:  73.97
+Air Temp  [ F ] MIN:   0.10 MAX: 105.90   AVG:  63.99
+Wnd Speed [mph] MIN:   0.00 MAX:  66.60   AVG:   6.59
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  53.37
+Hr Precip [in ] MIN:   0.00 MAX:   3.85 YRAVG:  55.89
+Rel Humid [ % ] MIN:  13.40 MAX: 100.00   AVG:  72.09
+Air Temp  [ F ] MIN:   0.80 MAX: 105.20   AVG:  64.22
+Wnd Speed [mph] MIN:   0.00 MAX:  41.20   AVG:   5.64
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  51.54
+Hr Precip [in ] MIN:   0.00 MAX:   2.58 YRAVG:  58.71
+Rel Humid [ % ] MIN:  13.20 MAX: 100.00   AVG:  73.26
+Air Temp  [ F ] MIN:  -4.70 MAX: 105.90   AVG:  62.10
+Wnd Speed [mph] MIN:   0.00 MAX:  46.00   AVG:   5.53
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  52.67
+Hr Precip [in ] MIN:   0.00 MAX:   4.58 YRAVG:  57.80
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  71.73
+Air Temp  [ F ] MIN:   4.20 MAX: 107.30   AVG:  66.04
+Wnd Speed [mph] MIN:   0.00 MAX:  31.60   AVG:   5.55
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  53.43
+Hr Precip [in ] MIN:   0.00 MAX:   5.69 YRAVG:  66.49
+Rel Humid [ % ] MIN:  15.50 MAX: 100.00   AVG:  74.25
+Air Temp  [ F ] MIN:  -3.60 MAX: 106.30   AVG:  62.29
+Wnd Speed [mph] MIN:   0.00 MAX:  47.80   AVG:   4.99
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  50.75
+Hr Precip [in ] MIN:   0.00 MAX:   3.71 YRAVG:  58.88
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  72.14
+Air Temp  [ F ] MIN:  -6.90 MAX: 106.50   AVG:  61.36
+Wnd Speed [mph] MIN:   0.00 MAX:  50.90   AVG:   6.25
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  51.97
+Hr Precip [in ] MIN:   0.00 MAX:   2.80 YRAVG:  57.05
+Rel Humid [ % ] MIN:  12.00 MAX: 100.00   AVG:  70.51
+Air Temp  [ F ] MIN:   1.30 MAX: 105.90   AVG:  64.44
+Wnd Speed [mph] MIN:   0.00 MAX:  33.60   AVG:   6.13
+Perct Sun [ % ] MIN:   0.00 MAX: 100.00   AVG:  54.49
+Hr Precip [in ] MIN:   0.00 MAX:   4.47 YRAVG:  58.31
+Rel Humid [ % ] MIN:  14.60 MAX: 100.00   AVG:  73.10
+00000 ADAMS| MS 3 7
+00001 ALCORN| MS 14 21
+00002 AMITE| MS 5 5
+00003 ATTALA| MS 10 14
+00004 BENTON| MS 11 21
+00005 BOLIVAR| MS 4 17
+00006 CALHOUN| MS 11 17
+00007 CARROLL| MS 8 15
+00008 CHICKASAW| MS 12 17
+00009 CHOCTAW| MS 11 15
+00010 CLAIBORNE| MS 4 9
+00011 CLARKE| MS 13 9
+00012 CLAY| MS 13 16
+00013 COAHOMA| MS 6 19
+00014 COPIAH| MS 6 8
+00015 COVINGTON| MS 10 7
+00016 DESOTO| MS 8 21
+00017 FORREST| MS 11 5
+00018 FRANKLIN| MS 4 7
+00019 GEORGE| MS 13 4
+00020 GREENE| MS 13 5
+00021 GRENADA| MS 9 17
+00022 HANCOCK| MS 10 2
+00023 HARRISON| MS 12 2
+00024 HINDS| MS 6 10
+00025 HOLMES| MS 8 14
+00026 HUMPHREYS| MS 6 14
+00027 ISSAQUENA| MS 4 12
+00028 ITAWAMBA| MS 15 19
+00029 JACKSON| MS 13 2
+00030 JASPER| MS 12 9
+00031 JEFFERSON| MS 4 8
+00032 JEFFERSON DAVIS| MS 9 7
+00033 JONES| MS 11 7
+00034 KEMPER| MS 13 12
+00035 LAFAYETTE| MS 10 19
+00036 LAMAR| MS 10 5
+00037 LAUDERDALE| MS 13 11
+00038 LAWRENCE| MS 8 7
+00039 LEAKE| MS 10 12
+00040 LEE| MS 13 19
+00041 LEFLORE| MS 7 16
+00042 LINCOLN| MS 6 7
+00043 LOWNDES| MS 14 15
+00044 MADISON| MS 8 12
+00045 MARION| MS 9 5
+00046 MARSHALL| MS 10 21
+00047 MONROE| MS 14 17
+00048 MONTGOMERY| MS 10 15
+00049 NESHOBA| MS 12 12
+00050 NEWTON| MS 12 11
+00051 NOXUBEE| MS 14 14
+00052 OKTIBBEHA| MS 13 15
+00053 PANOLA| MS 8 19
+00054 PEARL RIVER| MS 10 3
+00055 PERRY| MS 12 5
+00056 PIKE| MS 6 5
+00057 PONTOTOC| MS 12 19
+00058 PRENTISS| MS 14 20
+00059 QUITMAN| MS 7 19
+00060 RANKIN| MS 8 10
+00061 SCOTT| MS 10 11
+00062 SHARKEY| MS 5 13
+00063 SIMPSON| MS 8 8
+00064 SMITH| MS 10 9
+00065 STONE| MS 12 3
+00066 SUNFLOWER| MS 6 16
+00067 TALLAHATCHIE| MS 7 17
+00068 TATE| MS 8 20
+00069 TIPPAH| MS 12 21
+00070 TISHOMINGO| MS 15 21
+00071 TUNICA| MS 7 20
+00072 UNION| MS 12 20
+00073 WALTHALL| MS 8 5
+00074 WARREN| MS 5 10
+00075 WASHINGTON| MS 4 14
+00076 WAYNE| MS 13 7
+00077 WEBSTER| MS 11 16
+00078 WILKINSON| MS 3 5
+00079 WINSTON| MS 12 14
+00080 YALOBUSHA| MS 9 18
+00081 YAZOO| MS 6 12
